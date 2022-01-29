@@ -1,6 +1,6 @@
 !['fullstack learning path'](./assets/hero.png)
 
-## # Full Stack Learning Path
+## Full Stack Learning Path
 
 The [full-stack learning path by codedamn](https://codedamn.com/learning-paths/fullstack) is an interactive learning path to become a full-stack web developer using modern technologies. Our full-stack learning path consists of the following modules:
 
