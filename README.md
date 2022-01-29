@@ -38,18 +38,18 @@ Concept table in full-stack learning paths would list down the covered and missi
 
 ## How to contribute?
 
--   Open an issue with a missing concept to be covered (https://github.com/codedamn/fullstack-learning-path/issues/new)
--   Open an issue with information about an outdated concept
+-   [Open an issue](https://github.com/codedamn/fullstack-learning-path/issues/new) with a missing concept to be covered
+-   [Open an issue](https://github.com/codedamn/fullstack-learning-path/issues/new) with information about an outdated concept
 -   Create an interactive codedamn lab for a missing concept [Coming soon]
 
 ## How to get rewarded by codedamn?
 
-At codedamn.com, we link your contributions to community with our karma metric. Link your codedamn account with your GitHub account in your codedamn account settings (https://codedamn.com/settings).
+At codedamn.com, we link your contributions to community with our karma metric. Link your codedamn account with your GitHub account in your [codedamn account settings](https://codedamn.com/settings).
 
 On every merged PR / issue created, you would be rewarded karma. This karma (community contribution) is visible:
 
 -   On your public profile at codedamn
--   In our Discord server
+-   In our [Discord server](https://cdm.sh/discord)
 -   To companies you are applying for a job/internship via codedamn (increases your chances of selection) [Coming soon]
 
 Karma can also be used to unlock special access to certain features on codedamn.com. More information here: https://codedamn.com/karma
