@@ -19,22 +19,55 @@ Explore all the modules on codedamn's learning path page. [Know more here](https
 
 Concept table in full-stack learning paths would list down the covered and missing content on codedamn on important concepts.
 
-| Concept                    | Topic                 | Covered | URL                                          | Outdated |
-| -------------------------- | --------------------- | ------- | -------------------------------------------- | -------- |
-| DNS                        | Internet fundamentals | ✅      | https://codedamn.com/learn/http-fundamentals | No       |
-| Port numbers               | Internet fundamentals | ✅      | https://codedamn.com/learn/http-fundamentals | No       |
-| HTTP syntax                | Internet fundamentals | ✅      | https://codedamn.com/learn/http-fundamentals | No       |
-| HTML basic tags            | HTML/CSS              | ✅      | https://codedamn.com/learn/html-css          | No       |
-| CSS common selectors       | HTML/CSS              | ✅      | https://codedamn.com/learn/html-css          | No       |
-| CSS Flexbox                | HTML/CSS              | ✅      | https://codedamn.com/learn/html-css          | No       |
-| CSS Grid                   | HTML/CSS              | ✅      | https://codedamn.com/learn/html-css          | No       |
-| CSS Positioning            | HTML/CSS              | ✅      | https://codedamn.com/learn/html-css          | No       |
-| Using HTML+CSS together    | HTML/CSS              | ✅      | https://codedamn.com/learn/html-css          | No       |
-| JavaScript syntax          | JavaScript            | ✅      | https://codedamn.com/learn/html-css          | No       |
-| DOM and DOM manipulation   | JavaScript            | ✅      | https://codedamn.com/learn/javascript-basics | No       |
-| Regular Expressions        | JavaScript            | ❌      | https://codedamn.com/learn/javascript-basics | -        |
-| ES6 syntax                 | JavaScript            | ✅      | https://codedamn.com/learn/javascript-basics | No       |
-| Using HTML+CSS+JS together | JavaScript            | ✅      | https://codedamn.com/learn/javascript-basics | No       |
+| Concept                                | Topic                   | Covered | URL                                                      | Outdated |
+| -------------------------------------- | ----------------------- | ------- | -------------------------------------------------------- | -------- |
+| DNS                                    | Internet fundamentals   | ✅       | https://codedamn.com/learn/http-fundamentals             | No       |
+| Port numbers                           | Internet fundamentals   | ✅       | https://codedamn.com/learn/http-fundamentals             | No       |
+| HTTP syntax                            | Internet fundamentals   | ✅       | https://codedamn.com/learn/http-fundamentals             | No       |
+| HTML basic tags                        | HTML/CSS                | ✅       | https://codedamn.com/learn/html-css                      | No       |
+| CSS common selectors                   | HTML/CSS                | ✅       | https://codedamn.com/learn/html-css                      | No       |
+| CSS Flexbox                            | HTML/CSS                | ✅       | https://codedamn.com/learn/html-css                      | No       |
+| CSS Grid                               | HTML/CSS                | ✅       | https://codedamn.com/learn/html-css                      | No       |
+| CSS Positioning                        | HTML/CSS                | ✅       | https://codedamn.com/learn/html-css                      | No       |
+| Using HTML+CSS together                | HTML/CSS                | ✅       | https://codedamn.com/learn/html-css                      | No       |
+| JavaScript syntax                      | JavaScript              | ✅       | https://codedamn.com/learn/html-css                      | No       |
+| DOM and DOM manipulation               | JavaScript              | ✅       | https://codedamn.com/learn/javascript-basics             | No       |
+| Regular Expressions                    | JavaScript              | ❌       | https://codedamn.com/learn/javascript-basics             | -        |
+| ES6 syntax                             | JavaScript              | ✅       | https://codedamn.com/learn/javascript-basics             | No       |
+| Using HTML+CSS+JS together             | JavaScript              | ✅       | https://codedamn.com/learn/javascript-basics             | No       |
+| Promises                               | JavaScript              | ✅       | https://codedamn.com/learn/advanced-practical-javascript | No       |
+| Prototypal Inheritance Model           | JavaScript              | ✅       | https://codedamn.com/learn/advanced-practical-javascript | No       |
+| Objects                                | JavaScript              | ✅       | https://codedamn.com/learn/advanced-practical-javascript | No       |
+| Chrome Dev Tools                       | Browser Developer Tools | ✅       | https://codedamn.com/learn/chrome-devtools               | No       |
+| Git Introduction                       | Version Control - Git   | ✅       | https://codedamn.com/learn/git-basics                    | No       |
+| Git Working on Local Repository        | Version Control - Git   | ✅       | https://codedamn.com/learn/git-basics                    | No       |
+| Git Branches                           | Version Control - Git   | ✅       | https://codedamn.com/learn/git-basics                    | No       |
+| Git Merging                            | Version Control - Git   | ✅       | https://codedamn.com/learn/git-basics                    | No       |
+| GitHub Remote Repositories             | Version Control - Git   | ✅       | https://codedamn.com/learn/git-basics                    | No       |
+| Collaborating using Git                | Version Control - Git   | ✅       | https://codedamn.com/learn/git-basics                    | No       |
+| NPM - Introduction to Package Managers | NPM (Package Manager)   | ✅       | https://codedamn.com/learn/npm-basics                    | No       |
+| Node Versioning                        | NPM (Package Manager)   | ✅       | https://codedamn.com/learn/npm-basics                    | No       |
+| NPM Modules                            | NPM (Package Manager)   | ✅       | https://codedamn.com/learn/npm-basics                    | No       |
+| NPM Dependencies                       | NPM (Package Manager)   | ✅       | https://codedamn.com/learn/npm-basics                    | No       |
+| NPM Scripts                            | NPM (Package Manager)   | ✅       | https://codedamn.com/learn/npm-basics                    | No       |
+| NPX                                    | NPM (Package Manager)   | ✅       | https://codedamn.com/learn/npm-basics                    | No       |
+| Yarn                                   | NPM (Package Manager)   | ✅       | https://codedamn.com/learn/npm-basics                    | No       |
+| Introduction to React                  | React                   | ✅       | https://codedamn.com/learn/reactjs                       | No       |
+| Managing State in React                | React                   | ✅       | https://codedamn.com/learn/reactjs                       | No       |
+| Tailwind CSS                           | Tailwind CSS            | ✅       | https://codedamn.com/learn/tailwind-css                  | No       |
+| React Query - Introduction             | React Query             | ✅       | https://codedamn.com/learn/react-query                   | No       |
+| React Query - Handling Queries         | React Query             | ✅       | https://codedamn.com/learn/react-query                   | No       |
+| React Query - Mutations                | React Query             | ✅       | https://codedamn.com/learn/react-query                   | No       |
+| React Query - Mutations                | React Query             | ✅       | https://codedamn.com/learn/react-query                   | No       |
+| React Hooks (useState and useEffect)   | React Hooks             | ✅       | https://codedamn.com/learn/advanced-react-hooks          | No       |
+| Advanced React Hooks                   | React Hooks             | ✅       | https://codedamn.com/learn/advanced-react-hooks          | No       |
+| Advanced React Patterns                | Advanced React Concepts | ✅       | https://codedamn.com/learn/advanced-react-concepts       | No       |
+| React Performance                      | Advanced React Concepts | ✅       | https://codedamn.com/learn/advanced-react-concepts       | No       |
+| ECMAScript                             | Theoretical JavaScript  | ✅       | https://codedamn.com/learn/advanced-theoritical-js       | No       |
+| JavaScript Runtime                     | Theoretical JavaScript  | ✅       | https://codedamn.com/learn/advanced-theoritical-js       | No       |
+| V8 Engine                              | Theoretical JavaScript  | ✅       | https://codedamn.com/learn/advanced-theoritical-js       | No       |
+| Event Loop                             | Theoretical JavaScript  | ✅       | https://codedamn.com/learn/advanced-theoritical-js       | No       |
+| Event Loop                             | Theoretical JavaScript  | ✅       | https://codedamn.com/learn/advanced-theoritical-js       | No       |
 
 ## How to contribute?
 
