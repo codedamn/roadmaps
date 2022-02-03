@@ -123,4 +123,4 @@ On every merged PR / issue created, you would be rewarded karma. This karma (com
 -   In our [Discord server](https://cdm.sh/discord)
 -   To companies you are applying for a job/internship via codedamn (increases your chances of selection) [Coming soon]
 
-Karma can also be used to unlock special access to certain features on codedamn.com. More information here: https://codedamn.com/karma
+Karma can also be used to unlock special access to certain features on codedamn.com. More information here: https://codedamn.com/news/introducing-karma
