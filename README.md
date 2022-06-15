@@ -105,7 +105,7 @@ Concept table in full-stack learning paths would list down the covered and missi
 | Introduction to CI / CD                   | GitHub Actions          | ✅       | [GitHub Actions](https://codedamn.com/learn/github-actions-ci-cd)                               | No       |
 | YAML                                      | GitHub Actions          | ✅       | [GitHub Actions](https://codedamn.com/learn/github-actions-ci-cd)                               | No       |
 | GitHub Actions                            | GitHub Actions          | ✅       | [GitHub Actions](https://codedamn.com/learn/github-actions-ci-cd)                               | No       |
-| Web Security                              | Web Security            | ❌       |                                                                                                 | -        |
+| Web Security                              | Web Security            | ✅       | [Web Security](https://codedamn.com/learn/web-security)                                         | No       |
 
 ## How to contribute?
 
@@ -113,7 +113,7 @@ Concept table in full-stack learning paths would list down the covered and missi
 -   [Open an issue](https://github.com/codedamn/fullstack-learning-path/issues/new) with information about an outdated concept
 -   Create an interactive codedamn lab for a missing concept [Coming soon]
 
-## How to get rewarded by codedamn?
+https://codedamn.com/learn/web-security## How to get rewarded by codedamn?
 
 At codedamn.com, we link your contributions to community with our karma metric. Link your codedamn account with your GitHub account in your [codedamn account settings](https://codedamn.com/settings).
 
